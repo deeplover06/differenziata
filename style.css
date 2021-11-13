@@ -1,0 +1,25 @@
+body{
+    background-color:dodgerblue
+
+}
+h1{
+    position: absolute;
+    left: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#fff;
+    font-size: 25px;
+}
+.logo{
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    height: 50px;
+}
+.list{
+    color:#fff;
+    position:absolute;
+    top: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    right: 45px;
+}
